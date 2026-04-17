@@ -1,0 +1,36 @@
+=== V2Map Debug Log â€” Tue Apr 14 14:59:45 CDT 2026 ===
+
+[Tue Apr 14 14:59:45 CDT 2026] Initializing V2Map Production Viewer...
+[Tue Apr 14 14:59:46 CDT 2026] Auto-loaded config: test2
+[Tue Apr 14 14:59:46 CDT 2026] --- rebuildGraph ---
+[Tue Apr 14 14:59:46 CDT 2026] Root: Package Dependency tests (PackageImpl)
+[Tue Apr 14 14:59:46 CDT 2026] Depth: 3, Theme: Dark
+[Tue Apr 14 14:59:46 CDT 2026] Scan root: Namespace
+[Tue Apr 14 14:59:46 CDT 2026] Relation index: 0 elements
+[Tue Apr 14 14:59:46 CDT 2026] Graph: 2 vertices, 1 edges, 355ms
+[Tue Apr 14 14:59:46 CDT 2026] V2Map window opened.
+[Tue Apr 14 15:00:14 CDT 2026] --- rebuildGraph ---
+[Tue Apr 14 15:00:14 CDT 2026] Root: View Dependency testsView (ViewUsageImpl)
+[Tue Apr 14 15:00:14 CDT 2026] Depth: 3, Theme: Dark
+[Tue Apr 14 15:00:14 CDT 2026] Scan root: Package Dependency tests
+[Tue Apr 14 15:00:14 CDT 2026] Relation index: 0 elements
+[Tue Apr 14 15:00:14 CDT 2026] Graph: 2 vertices, 1 edges, 22ms
+[Tue Apr 14 15:00:18 CDT 2026] --- rebuildGraph ---
+[Tue Apr 14 15:00:18 CDT 2026] Root: Requirement reqThree (RequirementUsageImpl)
+[Tue Apr 14 15:00:18 CDT 2026] Depth: 3, Theme: Dark
+[Tue Apr 14 15:00:18 CDT 2026] Scan root: Package requirements
+[Tue Apr 14 15:00:18 CDT 2026] Relation index: 0 elements
+[Tue Apr 14 15:00:18 CDT 2026] Graph: 2 vertices, 1 edges, 17ms
+[Tue Apr 14 15:00:20 CDT 2026] --- rebuildGraph ---
+[Tue Apr 14 15:00:20 CDT 2026] Root: Requirement reqFive (RequirementUsageImpl)
+[Tue Apr 14 15:00:20 CDT 2026] Depth: 3, Theme: Dark
+[Tue Apr 14 15:00:20 CDT 2026] Scan root: Package requirements
+[Tue Apr 14 15:00:20 CDT 2026] Relation index: 0 elements
+[Tue Apr 14 15:00:20 CDT 2026] Graph: 2 vertices, 1 edges, 14ms
+[Tue Apr 14 15:00:23 CDT 2026] --- rebuildGraph ---
+[Tue Apr 14 15:00:23 CDT 2026] Root: Package partsOfSystem (PackageImpl)
+[Tue Apr 14 15:00:23 CDT 2026] Depth: 3, Theme: Dark
+[Tue Apr 14 15:00:23 CDT 2026] Scan root: Package SatisfyTests
+[Tue Apr 14 15:00:24 CDT 2026] Relation index: 31 elements
+[Tue Apr 14 15:00:24 CDT 2026] Graph: 30 vertices, 54 edges, 316ms
+[Tue Apr 14 15:01:35 CDT 2026] Window closed — removing listener, auto-saving config.
