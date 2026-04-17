@@ -7,3 +7,13 @@ NOTE: This script requires 26xR1+ and may require the complete Groovy installati
 
 
 The script is written in Groovy. 
+## How to use
+Once the script is launched from the tool, simply select an item in the containment tree. 
+## Current Capabilities
+- standard and compact views
+- auto legend creation and editing
+- several types of layout
+- Ability to traverse package hierarchies
+- Filter non-standard library elements/properties
+- Export graph to SVG and PNG
+
